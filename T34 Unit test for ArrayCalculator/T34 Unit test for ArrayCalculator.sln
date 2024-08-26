@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T34 Unit test for ArrayCalculator", "T34 Unit test for ArrayCalculator\T34 Unit test for ArrayCalculator.csproj", "{8C1BBC30-54C2-497A-A129-81BACEB69C95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T34 Unit test for ArrayCalculatorTests", "T34 Unit test for ArrayCalculatorTests\T34 Unit test for ArrayCalculatorTests.csproj", "{1B50AC36-328A-43DF-BAB8-C77FFAF47E64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1BBC30-54C2-497A-A129-81BACEB69C95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1BBC30-54C2-497A-A129-81BACEB69C95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1BBC30-54C2-497A-A129-81BACEB69C95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1BBC30-54C2-497A-A129-81BACEB69C95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B50AC36-328A-43DF-BAB8-C77FFAF47E64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B50AC36-328A-43DF-BAB8-C77FFAF47E64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B50AC36-328A-43DF-BAB8-C77FFAF47E64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B50AC36-328A-43DF-BAB8-C77FFAF47E64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F8B9ED-4ED6-4435-BBBD-8462B7ED6734}
+	EndGlobalSection
+EndGlobal
